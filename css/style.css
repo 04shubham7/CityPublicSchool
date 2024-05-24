@@ -560,8 +560,8 @@ a:focus {
 }
 
 .why_section .box .img-box img {
-  width: 55px;
-  height: auto;
+  width: 100px;
+  height: 100px;
   fill: #00204a;
 }
 
