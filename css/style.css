@@ -4,6 +4,7 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
   overflow-x: hidden;
+  border-radius: 10px;
 }
 
 .layout_padding {
@@ -41,12 +42,14 @@ body {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
+          border-radius: 10px;
 }
 
 .heading_container h2 {
   position: relative;
   font-weight: bold;
   margin-bottom: 0;
+  border-radius: 10px;
 }
 
 .heading_container h2 span {
@@ -56,6 +59,7 @@ body {
 .heading_container p {
   margin-top: 10px;
   margin-bottom: 0;
+  border-radius: 10px;
 }
 
 .heading_container.heading_center {
@@ -94,6 +98,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+          border-radius: 10px;
 }
 
 .hero_area .hero_bg_box {
@@ -118,16 +123,19 @@ a:focus {
 .hero_area .hero_bg_box .bg_img_box {
   min-width: 100%;
   min-height: 100%;
+  
 }
 
 .hero_area .hero_bg_box img {
   min-width: 100%;
   min-height: 100%;
+  
 }
 
 .sub_page .hero_area {
   min-height: auto;
   background: linear-gradient(130deg, #1f8589, #0f054c);
+  border-radius: 10px;
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -162,7 +170,7 @@ a:focus {
   color: #ffffff;
   text-align: center;
   text-transform: uppercase;
-  border-radius: 5px;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -208,7 +216,7 @@ a:focus {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   position: relative;
-  border-radius: 5px;
+  border-radius: 10px;
   transition: all 0.3s;
 }
 
@@ -220,7 +228,7 @@ a:focus {
   width: 100%;
   background-color: #ffffff;
   top: -10px;
-  border-radius: 5px;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -259,6 +267,7 @@ a:focus {
           align-items: center;
   position: relative;
   padding: 45px 0 145px 0;
+  border-radius: 10px;
 }
 
 .slider_section .row {
@@ -282,11 +291,13 @@ a:focus {
   text-transform: uppercase;
   margin-bottom: 15px;
   color: #ffffff;
+  border-radius: 10px;
 }
 
 .slider_section .detail-box p {
   color: #fefefe;
   font-size: 14px;
+  border-radius: 10px;
 }
 
 .slider_section .detail-box .btn-box {
@@ -295,12 +306,14 @@ a:focus {
   display: flex;
   margin: 0 -5px;
   margin-top: 25px;
+  border-radius: 10px;
 }
 
 .slider_section .detail-box .btn-box a {
   margin: 5px;
   text-align: center;
   width: 165px;
+  border-radius: 10px;
 }
 
 .slider_section .detail-box .btn-box .btn1 {
@@ -308,10 +321,10 @@ a:focus {
   padding: 10px 15px;
   background-color: #00bbf0;
   color: #ffffff;
-  border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
+  border-radius: 10px;
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
@@ -323,7 +336,7 @@ a:focus {
   padding: 10px 15px;
   background-color: #000000;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -417,7 +430,7 @@ a:focus {
   margin-top: 45px;
   background-color: #f8f8f9;
   padding: 20px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .service_section .box .img-box {
@@ -472,7 +485,7 @@ a:focus {
   padding: 10px 45px;
   background-color: #00bbf0;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -514,7 +527,7 @@ a:focus {
   padding: 10px 45px;
   background-color: #00bbf0;
   color: #ffffff;
-  border-radius: 0px;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -589,7 +602,7 @@ a:focus {
   padding: 10px 45px;
   background-color: #00bbf0;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 10px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -618,7 +631,7 @@ a:focus {
 
 .team_section .team_container .box {
   padding: 35px 0 0 0;
-  border-radius: 5px;
+  border-radius: 10px;
   overflow: hidden;
   -webkit-transition: all .1s;
   transition: all .1s;
